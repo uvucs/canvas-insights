@@ -1,0 +1,6 @@
+canvasapi
+pandas
+numpy
+requests
+duckdb
+sqlite3

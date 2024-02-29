@@ -5,3 +5,4 @@ requests
 duckdb
 scikit-learn
 wheel
+pyarrow

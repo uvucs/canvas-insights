@@ -3,5 +3,5 @@ pandas
 numpy
 requests
 duckdb
-sqlite3
-sklearn
+scikit-learn
+wheel

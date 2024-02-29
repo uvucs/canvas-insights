@@ -4,3 +4,4 @@ numpy
 requests
 duckdb
 scikit-learn
+wheel
